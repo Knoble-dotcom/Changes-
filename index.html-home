@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./Css/style.css">
+  <title>Home page</title>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="./index.html-home">Home</a></li>
+<li><a href="./about.html">About</a></li>
+<li><a href="./contact.html">Contact</a></li>
+<li><a href="./writing.html-statement">Mission statement</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>This is my Homepage</h1>
+<p>Quo dolorit que parum et maximus antotatur ad ut erum iur solupta tquiatem aut quos moluptat dolo ende et plibus endesequi acesequo tem et min et eum quatese rchicie ndandis aut harum volorep eribus, is maximus andanto tatque dolor rest qui omnim res atus accaepro tem et vellupt aturiores vel et ulparitas et et quae ese laci oditatem dolupta tisque doluptas ex eatibus magnimus rem eossit facerrum a con cus, odite mil min nimagnisciis sent eatur, ameni cum si cum ut eum dolupturis niendicil moluptae qui quia con reiusa voloria quis nes res doluptatur autet aut dolupta</p>
+</main>
+<aside>This is some extra stuff</aside>
+<footer>
+<p>&copy; 2020<span> Fake </span>websites</p>
+</footer>
+  
+</body>
+</html>
